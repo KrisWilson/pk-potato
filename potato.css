@@ -1,6 +1,8 @@
+<style>
 #adaptable-page-header-wrapper, .header, #above-header, #ticker-announce{
     background-color: #e21b5a !important;
 }
 .block .content a, .block_navigation .block_tree .tree_item.branch {
 color: #f67280 !important;
 }
+</style>
